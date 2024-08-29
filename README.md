@@ -8,6 +8,6 @@ The aim of this project is to analyze pizza sales data to identify top-selling p
 - **Dashboard**: An interactive Excel dashboard.
 
 ## Contents
-- [Excel File](Pizza-Sales-Analysis/pizza_sales_analysis.xlsx)
-- [Documentation](Pizza-Sales-Analysis/pizza_sales_analysis_documentation.pdf)
+- [Excel File](pizza_sales_analysis.xlsx)
+- [Documentation](pizza_sales_analysis_documentation.pdf)
 
